@@ -1,0 +1,38 @@
+
+@import url(https://fonts.googleapis.com/css?family=Inter&display=swap);
+
+body {
+    font-family: Inter, serif;
+}
+
+.nav-link {
+    color: #128b12;
+}
+
+.navbar-nav .nav-link.active {
+    color: a#128b12;
+}
+
+.bg-body-tertiary {
+    --bs-bg-opacity: 1;
+    background-color: rgb(224, 224, 224) !important;
+}
+
+.navbar-brand img {
+    display: flex;
+    width: 75px;
+    height: 30px;
+}
+
+.card {
+    box-shadow: 4px 5px 10px 1px #eeebeb;
+}
+
+.sidebar {
+    color: black;
+    background-color: rgb(224, 224, 224);
+    box-shadow: 4px 5px 10px 1px #eeebeb;
+}
+
+
+
